@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-size: 100%;
+}
+ul
+{
+list-style-type:none;
+}
+.profil
+{
+    margin: 2%;
+    width: 400px;
+    height: 400px;
+}
+h3{
+    font-family: 'The Nautigal', cursive;
+    font-size: 300%;
+    color: 0078AA;
+}
+h2{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 300%;
+}
+.presentation
+{
+    display: inline;
+}
+.identity
+{
+    padding-top: 40px;
+}
+.objective
+{
+    margin: 0 2% 2% 2%;
+    text-align: justify;
+}
+.card
+{
+width: 200px;
+height: 300px;
+margin: 5px;
+padding: 5px 0 0 27px;
+}
+.card-img-top
+{
+    width: 150px;
+    height: 150px;
+}
